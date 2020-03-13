@@ -1,7 +1,7 @@
 ## cuda-kali-linux
 additional step installing nvidia gpu on kali linux
 
-# Follow step bellow
+### Follow step bellow
 * before you go, make sure your sources.list have line bellow:
 ```
 deb http://http.kali.org/kali kali-rolling main non-free contrib
